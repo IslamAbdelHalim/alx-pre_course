@@ -1,2 +1,1 @@
-This is a non empty readme inside directory
-
+THis is the first directory 
